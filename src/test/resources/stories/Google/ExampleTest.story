@@ -1,8 +1,10 @@
-Test Example for Google Search
+Used for Developing
 
 Meta:
 @pageUrl https://www.google.com
-@testType GoogleExample
+@user USER
+@pass PASSWORD
+@testType Develop
 
 Narrative:
 As a QA Engineer
